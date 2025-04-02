@@ -1,5 +1,5 @@
 annotations:
-  catalog.cattle.io/display-name: DragonHPC Cloud Services
+  catalog.cattle.io/display-name: DragonHPC Cloud Services Batch
   catalog.cattle.io/os: linux
   catalog.cattle.io/permits-os: linux
 apiVersion: v2
@@ -42,7 +42,7 @@ maintainers:
   name: Nick Radcliffe
 - email: colin.wahl@hpe.com
   name: Colin Wahl
-name: dragonhpc-cloud-services
+name: dragonhpc-cloud-services-batch
 sources:
 - https://github.com/DragonHPC/dragon
 - https://developer.hpe.com/platform/dragonhpc/home/
