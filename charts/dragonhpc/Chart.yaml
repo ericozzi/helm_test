@@ -42,7 +42,7 @@ maintainers:
   name: Nick Radcliffe
 - email: colin.wahl@hpe.com
   name: Colin Wahl
-name: dragon
+name: dragonhpc
 sources:
 - https://github.com/DragonHPC/dragon
 - https://developer.hpe.com/platform/dragonhpc/home/
